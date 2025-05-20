@@ -1,8 +1,7 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
+ 
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)   
-
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+Hi there! I'm Khushi, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
 ## **Portfolio Features:**
 
@@ -22,10 +21,6 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 * Fonts: Augustina, Rubik, Dancing Script
 * Bootstrap Icons
 
-## **Want to see it live? 👀**
-
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
 
 ## **Why This Web Developer Portfolio Stands Out**
 
@@ -37,4 +32,3 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
-> ~ [hi@vijay-singh.com](mailto:hi@vijay-singh.com)
